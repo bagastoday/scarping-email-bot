@@ -1,0 +1,16 @@
+ Core (versi yang dipakai)
+python-telegram-bot==21.6
+aiohttp==3.10.10
+beautifulsoup4==4.12.3
+pandas==2.2.3
+openpyxl==3.1.5
+python-dotenv==1.0.1
+ 
+# JS Rendering (opsional tapi sangat direkomendasikan)
+playwright==1.43.0
+ 
+# PDF Scraping (opsional tapi direkomendasikan)
+pymupdf==1.24.1
+ 
+# Setelah install playwright, jalankan:
+# playwright install chromi#

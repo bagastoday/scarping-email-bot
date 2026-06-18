@@ -1,0 +1,2 @@
+# satu email per baris
+# contoh: spam@example.com

@@ -1,0 +1,8 @@
+{
+  "mode": "dork",
+  "input": "perusahaan it",
+  "target": 100,
+  "output_filename": "partial_dork_1781249428.xlsx",
+  "quality_mode": "clean",
+  "saved_at": "2026-06-15 09:27:06"
+}

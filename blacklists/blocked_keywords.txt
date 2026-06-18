@@ -1,0 +1,3 @@
+# satu keyword per baris
+# contoh: rektor
+# contoh: kampus

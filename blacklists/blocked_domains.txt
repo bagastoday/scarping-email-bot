@@ -1,0 +1,3 @@
+# satu domain per baris
+# contoh: example.com
+# contoh suffix: .go.id
